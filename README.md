@@ -50,18 +50,6 @@ This calculator is integrated with the AI agent to provide personalized nutritio
 
 ---
 
-## Installation and Setup
-
-FitCoach AI runs mainly on IBM watsonx.ai platform and requires no complex local setup. To explore or contribute to the project locally:
-
-1. Clone this repository:  
-
-
-        git clone https://github.com/Faiz-3112/FitCoach-AI-Powered-Virtual-Fitness-Coach.git
-
-2. Review the agent configuration, project resources, and the Python script located in `Macronutrient Split Calculator.py`.  
-3. Use IBM watsonx.ai Studio and Agent Lab to deploy or customize the agent further.
-
 *Note: The core conversational flows and AI logic are intended to run on IBM watsonx.ai platform.*
 
 ---
