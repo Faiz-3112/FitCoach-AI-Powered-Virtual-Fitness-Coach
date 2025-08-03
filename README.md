@@ -74,7 +74,7 @@ FitCoach AI runs mainly on IBM watsonx.ai platform and requires no complex local
 - `6 Common Instructions.txt`  
 - Screenshots demonstrating the AI in action are organized in the `Screenshots` folder.  
 - The project presentation slides are included as:  
-- `FitCoach_AI_Presentation.pptx` (or your PowerPoint file).  
+- `FitCoach AI__AI Agent_By_MD Faizan.pdf`.  
 - Macronutrient Split Calculator logic is contained in:  
 - `Macronutrient Split Calculator.py`
 
