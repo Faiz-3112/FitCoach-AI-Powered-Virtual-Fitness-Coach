@@ -85,7 +85,7 @@ FitCoach AI runs mainly on IBM watsonx.ai platform and requires no complex local
 Below are some screenshots showcasing interactions with FitCoach AI, giving a glimpse of the user experience and helpful outputs.
 
 ![FitCoach AI Interaction](Chat.png)  
-![FitCoach AI Macro Calculation](command-to-use-macronutrient-calculator.png)
+![FitCoach AI Macro Calculation](command-to-use-macroneutrient-calculator.png)
 
 
 ---
